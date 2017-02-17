@@ -45,3 +45,6 @@ while loop == 1:
         loop = 0
     
 print "Thank you for using calculator.py!"
+print "This is the additional part that I am adding for the new branch"
+print "I really just want to see how this works"
+print "When I add addtional text or changes into the file"
