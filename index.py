@@ -3,7 +3,7 @@
 #this variable tells the loop whether it should loop or not.
 # 1 means loop. anything else means don't loop.
 
-loop = 1
+loop = 2
 
 #this variable holds the user's choice in the menu:
 
